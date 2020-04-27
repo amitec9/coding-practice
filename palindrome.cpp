@@ -21,11 +21,11 @@ int main()
 	}
 	if(temp==sum)
 	{
-		cout<<"It is a palindrome number";
+		cout<<"Given no is a palindrome number";
 	}
 	else
 	{
-		cout<<"It is a not palindrome number";
+		cout<<"Given no is a not palindrome number";
 	}
 	
 	
