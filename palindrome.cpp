@@ -6,7 +6,7 @@
 using namespace std;
 int main()
 {
-	int  num,sum=0,rev,rem;
+	int  num,sum=0,rem;
 	cout<<"Enter the  number :: ";
 	cin>>num;
 	int temp=num;
@@ -16,7 +16,7 @@ int main()
 		num=num/10;
 		sum=sum*10+rem;
 		
-		//cout<<rem;
+
 		
 	}
 	if(temp==sum)
